@@ -1,5 +1,5 @@
 variable "my_virtual_machine_password" {
-  default     = "Guaranifc123@"
+  default     = "PASSWORD"
   description = "Password of the Virtual Machine"
 }
 
